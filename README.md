@@ -28,7 +28,7 @@ project-folder/ ├── public/ // Public assets │ ├── index.html // M
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/user-management-dashboard.git
+   git clone https://github.com/jhansilakshmiragala/Ajackusjhansi.git
    
 2. Install dependencies:
 Navigate to the project folder and install the necessary dependencies:
